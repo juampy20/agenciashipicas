@@ -24,6 +24,8 @@ https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://kooora4you.com/images/min/dubairacing2.jpg" group-title="(TURF)" , DUBAI RACING 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 1
 https://5.trstream01.xyz/canal6/stream.m3u8
