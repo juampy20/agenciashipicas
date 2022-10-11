@@ -20,6 +20,10 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvME007OaQ672G3RbU_TAuU_K9o
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/VntLHKG-UQug3xK9VBkZ4aOWk9b0v_vU02p-E6LgbnaXTGGhAR19SX3XUJ1WVcK8mz0" group-title="(TURF)" , RACING TV
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 1
 https://5.trstream01.xyz/canal6/stream.m3u8
