@@ -20,12 +20,17 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvME007OaQ672G3RbU_TAuU_K9o
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/VntLHKG-UQug3xK9VBkZ4aOWk9b0v_vU02p-E6LgbnaXTGGhAR19SX3XUJ1WVcK8mz0" group-title="(TURF)" , RACING TV
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrD_VqMx1FvJYIOGgEcIMej5_59FFNscg0IxS5C_5eNdI0eJAuW3WfTWa1e9de-11RQM&usqp=CAU" group-title="(TURF)" , DUBAI RACING 1
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
 
 #EXTINF:-1 tvg-logo="http://kooora4you.com/images/min/dubairacing2.jpg" group-title="(TURF)" , DUBAI RACING 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210402193U50-L.jpg" group-title="(TURF)" , DUBAI RACING 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/dubaimubasher/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 1
 https://5.trstream01.xyz/canal6/stream.m3u8
