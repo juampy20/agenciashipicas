@@ -29,6 +29,10 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv4EywBaOlfWH4YgPnmzyx_Ny0U
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv4ENdUgXjnHFNp4jBW3HvhOXGZZu3TaNgH9XdFxbeeJBWT8_wd_xdth3aSlkHmvrcFCT8aiMIUIJvIbQ1rQFqyilWSnK6n6rnAv7Z-Z6L6qS6bDzhJS16J7lraFD82kU-UsPpax7-BGPXQ4qjVxQW83TJ9opsPlt8RwAA2FYSLfp1e1bCW6hCuOq22vhNwJHRrjykI1ybL8L_nPb2A1HfPY3RZn0fv79oG9OXdAuchrVuF-T2mNLMhbUhYgAEW7S-kXCYRjt_QU45bUKadou_vLW1g2-C8ZR-e3vdYVZUy5LhmKsL3VqJn7BdeeuypO7qbCXWTxuw-RM1gD3i5-W2aY7r0MC3FBaNy4lNJLga7oAovdnRpLpu9t60wrvyja0uLycw_YviJQs_avHjVfE78Ej5VF0yHG-19cn1CU6Q3oJlZcHvXdONaMsQ5WwxAd_uau0a2O10EaPLNah3IPBclFpvLABD-CXsfbj_TEiqPC2N_FD6wTuJoNlfEdcexgLMDAgNYpcrzvyACxuEq6My8bpOu8GwKSV19Q9n7T1Owjh3brdxudWj2vkd-yWA8UwsDO_n5-Lj8zxxpoVwbbvzhm1kvlJPdq_LUjcPGgInG_BmjMKBv1EcOE9xHbIj6bPMNur6T8QHxvoeDdr6Reg0ZH_hJPNQKaLNQ_YEOHJycRlt8esz61i_Q3U7jJWVgqQknhnDH3lIZro2dnz1JfOHLTEax1udpf72v54Hwoxt4OoQySE-v2Htj9zYfKj8FFASJTV7L1EzL7VFm74efgvG6-hwtM3LrZdQasP9g6_Q1WlBA1ogp1Ycv8HUIfDnOxW_z_rNGK2ED_8hVGAfhIUTIaDHj5t5fSg43zThUzpSABKgl1cy1lYXN0LTEwpgM.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2019/05/visiondigital63.png" group-title="(TURF)" , PUERTO RICO ESPAÑOL (EEUU)
+https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w460400059.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrD_VqMx1FvJYIOGgEcIMej5_59FFNscg0IxS5C_5eNdI0eJAuW3WfTWa1e9de-11RQM&usqp=CAU" group-title="(TURF)" , DUBAI RACING 1
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
 
