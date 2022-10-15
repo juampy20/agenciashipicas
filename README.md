@@ -12,7 +12,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvME007OaQ672G3RbU_TAuU_K9o
 
 
 #EXTINF:-1 tvg-logo="https://hipodromosanisidro.com/wp-content/uploads/2019/05/logo_hsi_home_Mesa-de-trabajo-1.png" group-title="(TURF)" , SAN ISIDRO
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvME007OaQ672G3RbU_TAuU_K9oxlwT328V0OAmEgJP-ib-IAJ-6OqljRKVD9CQHodP4rr6hmNwySiyXHulDiv73n7WvdXVtkxeW3xdM2IBvO7cz-EHKfQwOx7OIAQOL5OxSCpofEogdgv-NVuttvm66AT8fwl-fIMxD_-0NCjvg3dg7KFcQ8eE4VTbOCngFcGLoZH8WfwXm9huzZGRyyzcdKK4g3rDatDxO3SY2rOoVeFxkcZRsN6zLUYLCwzkpc0UtqngfxdRydpfzDX9s6dukaPDT3F7lOpKsZWzNqHTS0ClVNBnfkdYr-fR35DdPR2dOxhJoXbSevBByj4hNPrE.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665872094/ei/fdxKY6OoPIyY5gTF2qvABw/ip/45.7.209.199/id/SxEgsNpYifc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM0vtiYvqOZ_FY9JnBLSHz42-q2qXq0fvJlo0DrgESBiAiBMqw9Rbv_Yfg070HsJllAShgq7Wo2vymPAfL_BhKlo0g%3D%3D/file/index.m3u8
 
 
 
