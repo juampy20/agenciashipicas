@@ -27,6 +27,12 @@ https://livedelta2.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV
 #EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="(TURF)" , TELETRAK CHILE
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/hipdromo-de-monterrico-en-vivo-1368.jpg" group-title="(TURF)" , MONTERRICO HD
+https://ed3os.live.opencaster.com/jcpstream_mid/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/icono-americano-de-la-bandera-horse-racing-los-e-u-del-jinete-114267092.jpg" group-title="(TURF)" , EEUU "A" calidad HD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv4EE0onzu5OvTSiCCmq_TfJdmAlSiSrFXgNSx1dyuDIPIzxt4pbCE5DgHbdA81Ok1p9QMvb3y0m8mPAnUXbtL8DiL9mBQPznghsj9TLVCWMjaZupFW6ZR1FL-iU0XRPSpYBDO4sVpNAttTHlQgfVLJS1nqMfXOKzoFnzMJY-xPT-CgjbZKXOqfE0N89BlhWK-lRbJByFRteOf64JsmxmEe73rAcEaiYWLmHjVEGjMFn5mdejxV1dLzCOZJrghD9jnupmKaKIJJKzLfTI11XmkMOb6U25bbMqsTp56OaCDDntU1KgOrGTE2CgJGqEhwJ3hxnWn5G4Zrv3Zde_TbZKls4Uub7pKHR2HMalHXlyETIPmLysfKgL0ZRcxCPqCUjhDk7clZyNZUYrGVO5_5HIkzehl_SzHJUMgp-86FE5Jmb3YX3HBR6EwI0GQKhdfzIxRB3i0AY_8ZIB02wTEhcZR2ivqHjdXxQ_CIBYYiiVwZ6rYeCvpgFZoJ2jWGtGfegT79jf1Cpe5mSPcdQ5P0_4ExMq06LpkHZeFwmHqjQpfKDI8zfK3oicYZ-ca9ruEJ0dWyph2WKIaIIAZNq04Fgr9b59YWTRZXKgmriaoRFd2mU3UFFdYxEZE34F6CXU3qLMEwu3gack0VhVhym6cFchP4SPtO-pjmkCSjcrtcDpjTh65J7YYyQXdkGTC4xA-r2W71t1T83mGgaGPKh0CKgVVEku6HKjvLGCUHWleIgW7cECUoB8oz1zdGvJaKRY-uR_Ysh9U8AgNcwM_Saen_h7EHCx5G3JIeaXhFtmdcr63HFFZSsARK3FqJN8dZ2aSdFMuJvDlZyOs4-4L-w-c-vKlwaDDGqUD21QLD2VeoZryABKgl1cy1lYXN0LTEwpgM.m3u8
 
