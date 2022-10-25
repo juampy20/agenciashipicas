@@ -36,7 +36,8 @@ https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/hipdromo-de-monterrico-en-vivo-1368.jpg" group-title="(TURF)" , MONTERRICO HD
 https://ed3os.live.opencaster.com/jcpstream_mid/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600016616884/fIfy0nMgaWRhZ107b53BecTLweAeKZgWbQj7EmEn77tzl0tZfFqYhCsiJ1sYYaU9J7E=s300?v=1" group-title="(TURF)" , ATG LIVE
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/icono-americano-de-la-bandera-horse-racing-los-e-u-del-jinete-114267092.jpg" group-title="(TURF)" , EEUU "A" calidad HD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CuwE9Z0vaEVMUFy71TmgS9Co1ePJCMd9tYx56rHZmmSm03BGr66mrngfBYuEggMj7agKez4H0CwVuhBcaxU6UC67R0qK-vFcOiZaxUxv3gu6rH7NubgfxtZU5ST73XLzZUYriGaXdayn2zQvVd1WX0YgIKQH3mm1WUXx4O9SqVWo_2k98bqyLX-lWMYa-HjHjn-X5eqR2UZfuSAH7QJgLAgX7Zt9GNwIJQtUQQjb-NVWlHW40Dzbw-Q3wkXoRf2B5pKG85LR_eAYDmJZUTpRB9TzteZAxp8mzUpWPHbU3Y2jiH9oYmcCKCU2X0fjWgpANf4I5mCJOpQkwrQed6UlA4YFPWAqIrkQMPVmMLPXZR_ly9iF9VU3qnpvpWaMJTKKxFS-Hc-z2N_hhdUfLoAfDxopz7b6RKd4MUHSaRV1EiE3DM-IQhSlcphhbBJsdexTyr53KPid7FSSj-j6T2LSzvtpvt7AV0UfAO-1K9y16Tremks1YILqRStKO1S1E415v5NoRzJjv-bE0LrOb_b5y_Mn3_MSX-SR83EEubS0W3X8UPDklY4zgivHNGC5ke70cYLKsGF7SuKRYU1GAK8Uqq0X-EHPnrJu_D4NgtbiIgqIj2RR9iPCbf4eldkFCV81EXWEx9pOIPkJEc5CDgGCEztXuk9qi7UKy5r7PJyGRylmzcA8HzYgFWcyZLBLCT8U6OwRT2S20p6_W1KqrpfYP8pOdradDTKBQyz6jFo9OSVl1oHXNztwW66jE1jgvtMIRL6nloLtfB43fx90u0hXRqbSzemfOaoEcwAe8g6W9PnZl7lflstvMdnApJe-YdEaDIJiP2cBlhXvP0VwqSABKgl1cy1lYXN0LTIw-gQ.m3u8
