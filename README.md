@@ -26,7 +26,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvQE9qQyXTSpW9ne4Y35QaIcIlG
 
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/9b79f963260871.Y3JvcCw4OTMsNjk5LDIyMiw1NQ.png" group-title="(TURF)" , MAROÑAS
-https://livedelta2.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EMl9NYXJvbmlhc19FbnRlcnRhaW5tZW50JTJGaGxzJTJGJTJBJmV4cGlyeT0xNjY1ODkyNzQ0JnJhbmRvbT1XOVgzRHhWMmU4JmMtaXA9NDUuNy4yMDkuMTk5JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2OHMsZDI3ZWZkNDdiMTI4ZDZkZWY5NmU1MzU3NzliNTBiMTM0OWRkMjUzMWUxYzY5ZDM2ZjVkOTlkNDA3YjMzN2UzOQ==/u/auth_D2_Maronias_Entertainment/hls/auth_D2_Maronias_Entertainment_HLSDEF13697.m3u8
+https://livedelta2.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EMl9NYXJvbmlhc19FbnRlcnRhaW5tZW50JTJGaGxzJTJGJTJBJmV4cGlyeT0xNjY2NzU1OTcxJnJhbmRvbT01cmRyWjkwc2dZJmMtaXA9NDUuNy4yMDkuMTk5JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2OHMsNGY4N2YwMjkxMzZjMGJiOTIzNDRmMDdkMDU0YzhlZDM4YWY3YTY3ZmJlNTgyZjMwZmY0NDhiYzRhNmYxOGQ5OA==/u/auth_D2_Maronias_Entertainment/hls/auth_D2_Maronias_Entertainment_HLSDEF13697.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="(TURF)" , TELETRAK CHILE
